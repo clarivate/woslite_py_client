@@ -28,9 +28,9 @@ Python 2.7 and 3.4+
 You can install directly from Github
 
 ```sh
-pip install git+https://github.com/Clarivate-SAR/woslite-py-client.git
+pip install git+https://github.com/Clarivate-SAR/woslite_py_client.git
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/Clarivate-SAR/woslite-py-client.git`)
+(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/Clarivate-SAR/woslite_py_client.git`)
 
 Then import the package:
 
